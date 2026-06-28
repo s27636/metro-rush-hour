@@ -1,0 +1,50 @@
+# ----- Unity generated folders (NIE commitować) -----
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Asset meta data tylko dla usuniętych assetów
+!/[Aa]ssets/**/*.meta
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D generated
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# macOS
+.DS_Store
+
+# Backup files
+*.bak
+sysinfo.txt
+
+# ----- Duże pliki postaci Mixamo (za duże na darmowy GitHub, re-importowalne) -----
+*.fbx
+
+# Folder odzyskiwania Unity (niepotrzebny w repo)
+[Aa]ssets/_Recovery/
